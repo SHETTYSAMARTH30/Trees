@@ -7,7 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-class invertTree {
+class averageLevel {
 
     public List<Double> averageOfLevels(TreeNode root) {
         
